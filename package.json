@@ -1,0 +1,19 @@
+{
+  "name": "postcss-bem-lint-failure-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Testing BEM Lint failure",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1",
+    "postcss": "^5.0.14",
+    "postcss-bem-linter": "^2.3.0",
+    "postcss-reporter": "^1.3.0"
+  }
+}
